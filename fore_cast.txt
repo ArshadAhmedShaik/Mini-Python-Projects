@@ -1,0 +1,9 @@
+Location: Tirupati
+Region: Andhra Pradesh
+Country: India
+-------------------------------------------
+Temperature in Celcius: 28.3
+Temperature in Farenheit: 83.0
+-------------------------------------------
+Condition:
+Partly Cloudy
