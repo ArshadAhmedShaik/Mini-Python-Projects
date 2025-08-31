@@ -1,9 +1,9 @@
-Location: Tirupati
-Region: Andhra Pradesh
+Location: Hyderabad
+Region: Telangana
 Country: India
 -------------------------------------------
-Temperature in Celcius: 28.3
-Temperature in Farenheit: 83.0
+Temperature in Celcius: 25.1
+Temperature in Farenheit: 77.2
 -------------------------------------------
 Condition:
-Partly Cloudy
+Mist

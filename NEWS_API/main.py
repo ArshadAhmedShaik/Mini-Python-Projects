@@ -1,4 +1,4 @@
-import requests #pip install requests
+import requests 
 
 query = input("Enter your query: ")
 api="8a9d2d41c6e74698a7428144aeee2322"
