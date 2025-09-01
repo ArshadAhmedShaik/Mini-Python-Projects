@@ -1,7 +1,7 @@
 import requests 
 
 query = input("Enter your query: ")
-api="8a9d2d41c6e74698a7428144aeee2322"
+api="-------api-key----------"
 
 url = f"https://newsapi.org/v2/everything?q={query}&from=2025-08-30&sortBy=publishedAt&apiKey={api}"
 

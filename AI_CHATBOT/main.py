@@ -1,6 +1,6 @@
 from groq import Groq
 
-key = "------API---KEY------"
+key = "----------API-KEY---------------"
 
 client = Groq(api_key=key)
 
